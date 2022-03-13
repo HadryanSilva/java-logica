@@ -14,9 +14,11 @@ public class ParesConsecutivos {
         while (x != 0) {
             System.out.print("Digite o valor de X: ");
             x = leia.nextInt();
+            soma = 0;
 
             if(x != 0 && x % 2 == 0) {
-                for(int i = 0; i < 5; i++) {
+                soma = x;
+                for(int i = 0; i <= 5; i++) {
                     soma += x + 2;
                 }
                 System.out.println("SOMA: " + soma);
