@@ -1,3 +1,5 @@
+package br.com.logica.condicionais;
+
 import java.util.Scanner;
 
 public class Lanchonete {

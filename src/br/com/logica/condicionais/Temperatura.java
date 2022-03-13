@@ -1,3 +1,5 @@
+package br.com.logica.condicionais;
+
 import java.util.Scanner;
 
 public class Temperatura {
@@ -14,10 +16,10 @@ public class Temperatura {
 
         if(opcao.equals("C")) {
             convert = ((temperatura * 1.8) + 32);
-            System.out.print("Temperatura em F°: " + convert);
+            System.out.print("br.com.logica.condicionais.Temperatura em F°: " + convert);
         } else if (opcao.equals("F")) {
             convert = ((temperatura - 32) * 5/9);
-            System.out.print("Temperatura em C°: " + convert);
+            System.out.print("br.com.logica.condicionais.Temperatura em C°: " + convert);
         }else {
             System.out.println("Opcao Incorreta!");
         }

@@ -1,3 +1,4 @@
+package br.com.logica.repeticao;
 
 import java.util.Scanner;
 
@@ -23,7 +24,7 @@ public class Crescente {
             if(x > y) {
                 System.out.println("Decrescente");
             }else {
-                System.out.println("Crescente");
+                System.out.println("br.com.logica.repeticao.Crescente");
             }
 
             System.out.print("Digite o valor de X: ");

@@ -1,3 +1,5 @@
+package br.com.logica.repeticao;
+
 import java.util.Scanner;
 
 public class SenhaFixa {

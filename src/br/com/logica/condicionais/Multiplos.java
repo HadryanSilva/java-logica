@@ -1,3 +1,5 @@
+package br.com.logica.condicionais;
+
 import java.util.Scanner;
 
 public class Multiplos {
@@ -14,13 +16,13 @@ public class Multiplos {
         
         if (x > y) {
             if(x % y == 0) {
-                System.out.println("São Multiplos!");
+                System.out.println("São br.com.logica.condicionais.Multiplos!");
             } else {
                 System.out.println("Não são múltiplos!");
             }          
         } else if (x < y) {
             if(y % x == 0) {
-                System.out.println("São Multiplos!");
+                System.out.println("São br.com.logica.condicionais.Multiplos!");
             } else {
                 System.out.println("Não são múltiplos!");
             }

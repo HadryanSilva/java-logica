@@ -1,3 +1,5 @@
+package br.com.logica.repeticao;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
