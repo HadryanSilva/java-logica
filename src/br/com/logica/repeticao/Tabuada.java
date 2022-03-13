@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Tabuada {
 
+    /*
+        Ler um número inteiro N, daí mostrar na tela a tabuada de N para 1 a 10, conforme exemplo.
+     */
+
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int n;
