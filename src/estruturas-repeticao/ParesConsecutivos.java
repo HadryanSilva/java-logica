@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ParesConsecutivos {
 
+
+
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int x = 1;
@@ -24,8 +26,5 @@ public class ParesConsecutivos {
                 System.out.println("SOMA: " + soma);
             }
         }
-
-
-
     }
 }
