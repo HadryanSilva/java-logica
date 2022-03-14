@@ -32,6 +32,7 @@ public class DentroOuFora {
         }
 
         System.out.println(dentro + " Numeros Dentro do Conjunto\n" + fora + " Numeros Fora do Conjunto");
+        leia.close();
     }
 
 }

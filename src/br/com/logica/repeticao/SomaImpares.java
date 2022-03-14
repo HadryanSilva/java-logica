@@ -58,6 +58,7 @@ public class SomaImpares {
         }
 
         System.out.println("Soma dos Impares: " + soma);
+        leia.close();
     }
 
 }

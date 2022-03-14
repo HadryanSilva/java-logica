@@ -36,5 +36,7 @@ public class ParesConsecutivos {
                 System.out.println("SOMA: " + soma);
             }
         }
+
+        leia.close();
     }
 }

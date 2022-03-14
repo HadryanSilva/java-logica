@@ -34,6 +34,6 @@ public class Fatorial {
             System.out.println("FATORIAL: " + fat);
 
         }
-
+        leia.close();
     }
 }

@@ -34,5 +34,7 @@ public class Divisao {
                 System.out.println("DIVISAO = " + resultado);
             }
         }
+
+        leia.close();
     }
 }

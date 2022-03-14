@@ -42,5 +42,7 @@ public class MediaIdades {
         if(check) {
             System.out.println("Media: " + media);
         }
+
+        leia.close();
     }
 }

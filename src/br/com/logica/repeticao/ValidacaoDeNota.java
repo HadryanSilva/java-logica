@@ -47,7 +47,7 @@ public class ValidacaoDeNota {
 
         }
 
-
+        leia.close();
     }
 
 }

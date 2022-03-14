@@ -27,6 +27,7 @@ public class SenhaFixa {
         }
 
         System.out.println("Acesso Permitido!");
+        leia.close();
     }
 
 }

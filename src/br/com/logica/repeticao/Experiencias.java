@@ -102,5 +102,6 @@ public class Experiencias {
         System.out.println("Percentual de Coelhos: " + df.format(porcCoelhos) + "%\nPercentual de Ratos: " + df.format(porcRatos) +
                 "%\nPercentual de Sapos: " + df.format(porcSapos));
 
+        leia.close();
     }
 }

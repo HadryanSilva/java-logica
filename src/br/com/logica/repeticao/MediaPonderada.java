@@ -41,6 +41,8 @@ public class MediaPonderada {
             System.out.println("MEDIA = " + df.format(media));
         }
 
+        leia.close();
+
     }
 
 }

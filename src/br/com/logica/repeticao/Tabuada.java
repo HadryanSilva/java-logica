@@ -21,6 +21,7 @@ public class Tabuada {
 
         }
 
+        leia.close();
     }
 
 }

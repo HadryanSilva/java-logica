@@ -41,5 +41,6 @@ public class ParImpar {
 
         }
 
+        leia.close();
     }
 }

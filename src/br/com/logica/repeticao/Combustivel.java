@@ -37,6 +37,6 @@ public class Combustivel {
         }
 
         System.out.println("MUITO OBRIGADO\n" + "Alcool: " + alcool + "\nGasolina: " + gasolina + "\nDiesel: " + diesel);
-
+        leia.close();
     }
 }

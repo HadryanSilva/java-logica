@@ -26,6 +26,8 @@ public class SequenciaImpares {
                 System.out.println(i);
             }
         }
+
+        leia.close();
     }
 
 }
