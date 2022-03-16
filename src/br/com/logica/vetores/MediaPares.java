@@ -33,12 +33,12 @@ public class MediaPares {
 
         if(media == 0) {
             System.out.println("NENHUM NUMERO PAR");
+        } else {
+            media = media / x;
+            System.out.println("Media dos Pares: " + media);
         }
 
-        media = media / x;
-        System.out.println("Media dos Pares: " + media);
         leia.close();
-
     }
 
 }
