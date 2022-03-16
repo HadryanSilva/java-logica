@@ -35,7 +35,8 @@ public class MediaPares {
             System.out.println("NENHUM NUMERO PAR");
         }
 
-        System.out.println("Media dos Pares: " + (media / x));
+        media = media / x;
+        System.out.println("Media dos Pares: " + media);
         leia.close();
 
     }
