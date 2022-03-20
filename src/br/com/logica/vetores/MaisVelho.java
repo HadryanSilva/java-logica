@@ -22,7 +22,6 @@ public class MaisVelho {
         String[] nome = new String[n];
         int[] idade = new int[n];
 
-
         for (int i = 0; i < n; i++) {
             System.out.println("Dados da " + (i + 1) + "° Pessoa");
             System.out.print("Nome: ");
